@@ -1,10 +1,10 @@
-# Salut, moi c'est Djakaridja Sidibé 👋
+# Salut, moi c'est Djakaridja Sidibé 
 
 **Développeur Full Stack Web & Mobile** basé à Abidjan 🇨🇮
 
 Je conçois des applications web et mobiles qui résolvent de vrais problèmes, pensées pour le marché africain et international : fintech, fidélisation client, services de proximité et IA appliquée au métier.
 
-📚 Chaque semaine, je partage des **tips & tutos tech** sur [LinkedIn](https://www.linkedin.com/in/djakaridja-sidibe) et [Instagram](https://www.instagram.com/sidibe__djakaridja).
+ Chaque semaine, je partage des **tips & tutos tech** sur [LinkedIn](https://www.linkedin.com/in/djakaridja-sidibe) et [Instagram](https://www.instagram.com/sidibe__djakaridja).
 
 ---
 
@@ -23,7 +23,7 @@ Je conçois des applications web et mobiles qui résolvent de vrais problèmes, 
 
 ---
 
-## 🚀 Réalisations récentes
+##  Réalisations récentes
 
 | Projet | Description | Liens |
 |---|---|---|
@@ -34,10 +34,10 @@ Je conçois des applications web et mobiles qui résolvent de vrais problèmes, 
 
 ---
 
-## 📫 Me contacter
+##  Me contacter
 
 Un projet d'application ou de site ? Parlons-en :
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/djakaridja-sidibe)
-- 📧 sidibedjakaridjasp@gmail.com
-- 📱 [WhatsApp](https://wa.me/2250747676644)
+-  [LinkedIn](https://www.linkedin.com/in/djakaridja-sidibe)
+-  sidibedjakaridjasp@gmail.com
+-  [WhatsApp](https://wa.me/2250747676644)
