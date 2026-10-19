@@ -43,6 +43,8 @@ Pour respecter la confidentialité de mes clients, le code et les noms de ces pr
 |  Fintech & fidélisation | Solutions de fidélisation client et de cashback | Flutter · TypeScript |
 |  Expérience client | Plateformes d'avis clients et de suivi des dépenses | Flutter · TypeScript |
 
+**… et plus de 60 autres projets** livrés pour des entreprises : e-commerce et marketplaces, livraison, billetterie et événementiel, éducation, recrutement, paiement, applications métiers et back-offices.
+
 > Mon activité sur ces projets reste visible dans le graphe de contributions ci-dessous.
 
 ---
