@@ -1,14 +1,14 @@
-# Salut, moi c'est Djakaridja Sidibé 👋
+# Salut, moi c'est Djakaridja Sidibé
 
-**Développeur Full Stack Web & Mobile** basé à Abidjan 🇨🇮
+**Développeur Full Stack Web & Mobile** basé à Abidjan
 
 Je conçois des applications web et mobiles qui résolvent de vrais problèmes, pensées pour le marché africain et international : fintech, fidélisation client, services de proximité et IA appliquée au métier.
 
-📚 Chaque semaine, je partage des **tips & tutos tech** sur [LinkedIn](https://www.linkedin.com/in/djakaridja-sidibe) et [Instagram](https://www.instagram.com/sidibe__djakaridja).
+Chaque semaine, je partage des **tips & tutos tech** sur [LinkedIn](https://www.linkedin.com/in/djakaridja-sidibe) et [Instagram](https://www.instagram.com/sidibe__djakaridja).
 
 ---
 
-## 🛠️ Ma stack
+## Ma stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -23,25 +23,25 @@ Je conçois des applications web et mobiles qui résolvent de vrais problèmes, 
 
 ---
 
-## 🚀 Réalisations récentes
+## Réalisations récentes
 
 | Projet | Description | Liens |
 |---|---|---|
 | **Sanni** | Application mobile disponible sur iOS et Android | [App Store](https://bit.ly/4rJotJY) · [Google Play](https://bit.ly/4rZbsNb) |
 | **My Signal** | Plateforme de signalement des consommateurs pour l'UFCCI | [Télécharger](https://lnkd.in/eCDVVZxX) |
 
-### 💼 Projets clients (code privé)
+### Projets clients (code privé)
 
 Pour respecter la confidentialité de mes clients, le code et les noms de ces projets ne sont pas publics :
 
 | Domaine | Ce que j'ai construit | Stack |
 |---|---|---|
-|  Services automobiles | Écosystème de plusieurs apps : clients, professionnels, agents terrain | Flutter |
-|  Mobilité urbaine | Application de gestion et de réservation de parking | Flutter · NestJS · Python |
-|  Santé | Mise en relation entre pharmacies et patients | Flutter · NestJS |
-|  Civic tech | Plateforme de vote en ligne avec back-office | Next.js · TypeScript |
-|  Fintech & fidélisation | Solutions de fidélisation client et de cashback | Flutter · TypeScript |
-|  Expérience client | Plateformes d'avis clients et de suivi des dépenses | Flutter · TypeScript |
+| Services automobiles | Écosystème de plusieurs apps : clients, professionnels, agents terrain | Flutter |
+| Mobilité urbaine | Application de gestion et de réservation de parking | Flutter · NestJS · Python |
+| Santé | Mise en relation entre pharmacies et patients | Flutter · NestJS |
+| Civic tech | Plateforme de vote en ligne avec back-office | Next.js · TypeScript |
+| Fintech & fidélisation | Solutions de fidélisation client et de cashback | Flutter · TypeScript |
+| Expérience client | Plateformes d'avis clients et de suivi des dépenses | Flutter · TypeScript |
 
 **… et plus de 60 autres projets** livrés pour des entreprises : e-commerce et marketplaces, livraison, billetterie et événementiel, éducation, recrutement, paiement, applications métiers et back-offices.
 
@@ -49,10 +49,10 @@ Pour respecter la confidentialité de mes clients, le code et les noms de ces pr
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
 Un projet d'application ou de site ? Parlons-en :
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/djakaridja-sidibe)
-- 📧 sidibedjakaridjasp@gmail.com
-- 📱 [WhatsApp](https://wa.me/2250747676644)
+- [LinkedIn](https://www.linkedin.com/in/djakaridja-sidibe)
+- E-mail : sidibedjakaridjasp@gmail.com
+- [WhatsApp](https://wa.me/2250747676644)
