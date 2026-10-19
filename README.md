@@ -1,14 +1,14 @@
-# Salut, moi c'est Djakaridja Sidibé 
+# Salut, moi c'est Djakaridja Sidibé 👋
 
 **Développeur Full Stack Web & Mobile** basé à Abidjan 🇨🇮
 
 Je conçois des applications web et mobiles qui résolvent de vrais problèmes, pensées pour le marché africain et international : fintech, fidélisation client, services de proximité et IA appliquée au métier.
 
- Chaque semaine, je partage des **tips & tutos tech** sur [LinkedIn](https://www.linkedin.com/in/djakaridja-sidibe) et [Instagram](https://www.instagram.com/sidibe__djakaridja).
+📚 Chaque semaine, je partage des **tips & tutos tech** sur [LinkedIn](https://www.linkedin.com/in/djakaridja-sidibe) et [Instagram](https://www.instagram.com/sidibe__djakaridja).
 
 ---
 
-##  Ma stack
+## 🛠️ Ma stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -23,14 +23,14 @@ Je conçois des applications web et mobiles qui résolvent de vrais problèmes, 
 
 ---
 
-##  Réalisations récentes
+## 🚀 Réalisations récentes
 
 | Projet | Description | Liens |
 |---|---|---|
 | **Sanni** | Application mobile disponible sur iOS et Android | [App Store](https://bit.ly/4rJotJY) · [Google Play](https://bit.ly/4rZbsNb) |
 | **My Signal** | Plateforme de signalement des consommateurs pour l'UFCCI | [Télécharger](https://lnkd.in/eCDVVZxX) |
 
-###  Projets clients (code privé)
+### 💼 Projets clients (code privé)
 
 Pour respecter la confidentialité de mes clients, le code et les noms de ces projets ne sont pas publics :
 
@@ -49,10 +49,10 @@ Pour respecter la confidentialité de mes clients, le code et les noms de ces pr
 
 ---
 
-##  Me contacter
+## 📫 Me contacter
 
 Un projet d'application ou de site ? Parlons-en :
 
--  [LinkedIn](https://www.linkedin.com/in/djakaridja-sidibe)
--  sidibedjakaridjasp@gmail.com
--  [WhatsApp](https://wa.me/2250747676644)
+- 💼 [LinkedIn](https://www.linkedin.com/in/djakaridja-sidibe)
+- 📧 sidibedjakaridjasp@gmail.com
+- 📱 [WhatsApp](https://wa.me/2250747676644)
